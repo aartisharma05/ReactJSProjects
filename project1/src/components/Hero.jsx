@@ -1,6 +1,5 @@
 const HeroSection = () =>{
   return <>
-  
   <main className="hero container">
     <div className="hero-content">
      <h1>YOUR FEET DESERVE THE BEST</h1>
