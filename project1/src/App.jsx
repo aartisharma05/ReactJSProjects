@@ -5,9 +5,9 @@ import HeroSection from './components/Hero';
 
 const App =()=> {
 
+  
   return (
     <>
-  
       <Nav/>
      <HeroSection/>
     </>
