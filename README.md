@@ -4,7 +4,7 @@
 #####  Basic Projects  #####
 #This is Project1. It contains a Brand Page .
 
- https://6514a2a76668690ed429f409--radiant-gecko-e582f4.netlify.app/
+ https://radiant-gecko-e582f4.netlify.app/
 
 
 
