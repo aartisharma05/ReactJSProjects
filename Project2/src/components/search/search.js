@@ -19,7 +19,7 @@ const Search = ({ onSearchChange }) => {
       const result = await response.json();
    return {
       options: result.data.map((city) => ({
-        value: `${city.latitude} ${city.longitude}`,
+        value: `${city.name} ${city.countryCode}`,
         label: `${city.name}, ${city.countryCode}`,
       })),
     };
