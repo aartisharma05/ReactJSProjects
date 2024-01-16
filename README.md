@@ -1,17 +1,10 @@
-# ReactJSProjects
-...
 
-
-
-#####  Basic Projects  #####.
 # Project1-----> Brand Page 
 
  https://radiant-gecko-e582f4.netlify.app/
 
 
 
-
-#######  Intermediate Projects  #######
 
 # Project2-----> Weather Forecast Application
 
